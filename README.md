@@ -1,4 +1,4 @@
-### Flight Price Analysis and Prediction using Data Analytics
+### Flight Price Analysis and Prediction using Machine Learning
 
 This project focuses on analyzing and predicting flight ticket prices using data analytics and machine learning techniques.
 The dataset includes factors such as airline, source and destination cities, departure and arrival times, number of stops, travel class, duration, and days left before departure.
